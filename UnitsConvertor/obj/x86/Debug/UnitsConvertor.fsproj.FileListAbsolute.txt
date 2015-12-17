@@ -1,0 +1,7 @@
+C:\Users\Ali\Documents\Projects\UnitsConvertor\UnitsConvertor\obj\x86\Debug\UnitsConvertor.fsprojResolveAssemblyReference.cache
+C:\Users\Ali\Documents\Projects\UnitsConvertor\UnitsConvertor\bin\Debug\UnitsConvertor.exe
+C:\Users\Ali\Documents\Projects\UnitsConvertor\UnitsConvertor\bin\Debug\UnitsConvertor.pdb
+C:\Users\Ali\Documents\Projects\UnitsConvertor\UnitsConvertor\bin\Debug\FSharp.Core.dll
+C:\Users\Ali\Documents\Projects\UnitsConvertor\UnitsConvertor\bin\Debug\FSharp.Core.xml
+C:\Users\Ali\Documents\Projects\UnitsConvertor\UnitsConvertor\obj\x86\Debug\UnitsConvertor.exe
+C:\Users\Ali\Documents\Projects\UnitsConvertor\UnitsConvertor\obj\x86\Debug\UnitsConvertor.pdb
